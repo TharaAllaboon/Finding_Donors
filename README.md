@@ -1,4 +1,4 @@
-# Finding_Donors
+# Finding Donors
 
 *This project has been accomplished as part of Udacity Machine Learning Nanodegree Projects*
 
